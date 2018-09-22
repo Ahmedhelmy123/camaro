@@ -136,6 +136,7 @@ div{
     nav ul li a{
         float: initial;
         font-size: large;
+        color: #fff;
     }
 
     nav ul li{
